@@ -1,0 +1,4 @@
+interface:
+  display_name: "Design Portfolio Screening"
+  short_description: "Screen design portfolios for next-round interviews"
+  default_prompt: "Use $design-portfolio-screening to review attached candidate portfolios and recommend who should advance."
